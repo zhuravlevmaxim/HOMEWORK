@@ -64,6 +64,10 @@
         </executions>
 
         <configuration>
+
+          <obfuscate>true</obfuscate>
+          <outjar>L01.2.1-release.jar</outjar>
+
           <options>
             <option>-keep public class ru.homework.lesson1.App {public static void main(java.lang.String[]);}</option>
             <option>-dontwarn</option>

@@ -5,7 +5,7 @@ import com.google.common.base.Strings;
 import java.util.Scanner;
 
 /**
- * Created by Зульфия on 25.12.2017.
+ * Created by zhmv on 25.12.2017.
  */
 public class MainWorkerClass {
 

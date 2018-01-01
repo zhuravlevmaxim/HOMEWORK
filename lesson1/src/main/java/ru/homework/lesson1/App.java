@@ -1,13 +1,7 @@
 package ru.homework.lesson1;
 
-import com.google.common.base.Joiner;
-
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App
 {
 

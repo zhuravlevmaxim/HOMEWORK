@@ -1,7 +1,7 @@
 package ru.homework.lesson1;
 
 /**
- * Created by Зульфия on 25.12.2017.
+ * Created by zhmv on 25.12.2017.
  */
 public class DataClass {
 
