@@ -1,0 +1,1 @@
+java -javaagent:./agent.jar -jar ./target/lesson2-1.0-SNAPSHOT.jar
