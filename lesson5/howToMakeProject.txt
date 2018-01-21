@@ -1,0 +1,1 @@
+java -jar target/lesson5-1.0-SNAPSHOT.jar
