@@ -60,14 +60,10 @@ public class MyJSONTest {
     @Test
     public void testCollection()
     {
-        myClass.pMyClass = new MyClass();
         List<String> listString = new ArrayList<String>();
         listString.addAll(Arrays.asList(new String[]{"String1","String2","String3"}));
         myClass.pList = listString;
         String jsonMyObject = "\"String1\",\"String2\",\"String3\"";
-
-        System.out.println(JSONSerializer.objectToJSON(myClass));
-
         Assert.assertTrue(JSONSerializer.objectToJSON(myClass).contains(jsonMyObject));
     }
     @After

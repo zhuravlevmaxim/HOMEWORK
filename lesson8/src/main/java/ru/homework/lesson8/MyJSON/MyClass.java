@@ -26,15 +26,4 @@ public class MyClass {
     public MyClass [] pMyClasses;
 
     public List<?> pList;
-
-    public MyClass()
-    {
-
-    }
-
-    public MyClass(int c, String s)
-    {
-        pInteger = c;
-        string = s;
-    }
 }
